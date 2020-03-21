@@ -2,4 +2,5 @@
 
 pull without conflict
 
-pull without conflict
+pull with conflict
+
